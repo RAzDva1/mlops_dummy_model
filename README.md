@@ -1,4 +1,4 @@
 # Dummy description
 
-dummy Description
+dummy Description with words about something
 language: python
